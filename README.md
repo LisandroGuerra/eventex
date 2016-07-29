@@ -11,7 +11,7 @@ Sistema de Eventos
 2. Crie virtualenv com Python 3.5.1
 3. Ative o virtualenv
 4. Instale dependências
-5. Confifgure a instância com o .env
+5. Configure a instância com o .env
 6. Execute os testes
 
 ```console
