@@ -21,7 +21,7 @@ python -m venv .wttd
 source .wttd/bin/activate
 pip install -r requirements.txt
 cp contrib/env-sample .env
-python mange.py test
+python manage.py test
 ```
 
 ## Como fazer deploy?
